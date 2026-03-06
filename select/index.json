@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "奮い立つCDショップにて",
+  "base_artist": "Moroha",
+  "createdAt": "2026-03-06T18:27:06.823706Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奮い立つCDショップにて",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_奮い立つCDショップにて_MOROHA.txt"
+    }
+  ]
+}
